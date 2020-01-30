@@ -1,6 +1,8 @@
 ![Alt text](https://raw.githubusercontent.com/msdickinson/DickinsonBros/master/Stack.png)
 <br/>
 
+DickinsonBros is a nuget package to handle cross cutting concerns for projects such as roller coaster.
+
 <a href="https://github.com/msdickinson/DickinsonBros.DateTime">
     DateTime – ability to unit test
 </a>
