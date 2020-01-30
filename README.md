@@ -10,7 +10,7 @@ Abstaction Packages have been added to reduce coupling between packages.
 
 <h1>Packages</h1>
 <a href="https://github.com/msdickinson/DickinsonBros.DateTime">
-    DateTime – ability to unit test
+    DateTime – Ability to unit test
 </a>
 <br/>
 <a href="https://github.com/msdickinson/DickinsonBros.DateTime.Abstractions">
@@ -20,7 +20,7 @@ Abstaction Packages have been added to reduce coupling between packages.
 <br/>
 
 <a href="https://github.com/msdickinson/DickinsonBros.DurableRest">
-    DurableRest – igh fidelity logging, adds ability to retry requests
+    DurableRest – High fidelity logging, adds ability to retry requests
 </a>
 <br/>
 <a href="https://github.com/msdickinson/DickinsonBros.DurableRest.Abstractions">
@@ -30,7 +30,7 @@ Abstaction Packages have been added to reduce coupling between packages.
 <br/>
 
 <a href="https://github.com/msdickinson/DickinsonBros.Encryption">
-    Encryption – ability to encode and decode strings with certs
+    Encryption – Ability to encode and decode strings with certs
 </a>
 <br/>
 <a href="https://github.com/msdickinson/DickinsonBros.Encryption.Abstractions">
@@ -50,7 +50,7 @@ Abstaction Packages have been added to reduce coupling between packages.
 <br/>
 
 <a href="https://github.com/msdickinson/DickinsonBros.Logger">
-    Logger – adds correlation ids and redaction to all logging
+    Logger – Adds correlation ids and redaction to all logging
 </a>
 <br/>
 <a href="https://github.com/msdickinson/DickinsonBros.Logger.Abstractions">
@@ -60,13 +60,13 @@ Abstaction Packages have been added to reduce coupling between packages.
 <br/>
 
 <a href="https://github.com/msdickinson/DickinsonBros.Middleware">
-    Middleware – high fidelity logging, correlation Ids, and handles exceptions
+    Middleware – High fidelity logging, correlation Ids, and handles exceptions
 </a>
 <br/>
 <br/>
 
 <a href="https://github.com/msdickinson/DickinsonBros.Redactor">
-    Redactor – redacts objects and json strings with regular expression and property names
+    Redactor – Redacts objects and json strings with regular expression and property names
 </a>
 <br/>
 <a href="https://github.com/msdickinson/DickinsonBros.Redactor.Abstractions">
@@ -76,7 +76,7 @@ Abstaction Packages have been added to reduce coupling between packages.
 <br/>
 
 <a href="https://github.com/msdickinson/DickinsonBros.SQL">
-    SQL – high fidelity logging, ability to unit test
+    SQL – High fidelity logging, ability to unit test
 </a>
 <br/>
 <a href="https://github.com/msdickinson/DickinsonBros.SQL.Abstractions">
@@ -87,5 +87,5 @@ Abstaction Packages have been added to reduce coupling between packages.
 
 
 <a href="https://github.com/msdickinson/DickinsonBros.Test">
-    Test - adds ablity to DI unit tests, and helper methods
+    Test - Adds ablity to DI unit tests, and helper methods
 </a>
