@@ -1,16 +1,16 @@
 
-<h1>About</h1>
+<h2>About</h2>
 DickinsonBros is a nuget package to handle cross cutting concerns for projects such as roller coaster.
 Abstaction Packages have been added to reduce coupling between packages.
 <br/>
 
-<h1>Stack</h1>
+<h2>Stack</h2>
 
 ![Alt text](https://raw.githubusercontent.com/msdickinson/DickinsonBros/master/Stack.png)
 
 <br/>
 
-<h1>Packages</h1>
+<h2>Packages</h2>
 <a href="https://github.com/msdickinson/DickinsonBros.DateTime">
     DateTime – Ability to unit test
 </a>
