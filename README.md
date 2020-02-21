@@ -6,7 +6,7 @@ Abstaction Packages have been added to reduce coupling between packages.
 
 <h2>Stack</h2>
 
-![Alt text](https://raw.githubusercontent.com/msdickinson/DickinsonBros/master/Stack.png)
+![Alt text](https://raw.githubusercontent.com/msdickinson/DickinsonBros/master/StackV2.png)
 
 <br/>
 
