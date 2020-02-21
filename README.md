@@ -1,7 +1,7 @@
 
 <h2>About</h2>
 DickinsonBros is a nuget package to handle cross cutting concerns for projects such as roller coaster.
-Abstaction Packages have been added to reduce coupling between packages.
+Abstraction packages have been added to reduce coupling between packages.
 <br/>
 
 <h2>Stack</h2>
