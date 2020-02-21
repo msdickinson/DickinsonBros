@@ -1,6 +1,6 @@
 
 <h2>About</h2>
-DickinsonBros is a nuget package to handle cross cutting concerns for projects such as roller coaster.
+DickinsonBros is a set nuget packages to handle cross cutting concerns for projects such as roller coaster.
 Abstraction packages have been added to reduce coupling between packages.
 <br/>
 
