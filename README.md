@@ -46,17 +46,17 @@ Abstraction packages have been added to reduce coupling between packages.
 
 <h2>Abstraction Packages</h2>
 
-| Package  | Build | Coverage | Release | Nuget |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Encryption.Certificate.Abstractions](https://github.com/msdickinson/DickinsonBros.Certificate.Abstractions)  |  |  |  |  |
-| [Encryption.AES.Abstractions](https://github.com/msdickinson/DickinsonBros.AES.Abstractions)  |  |  |  |  |
-| [DataTable.Abstractions](https://github.com/msdickinson/DickinsonBros.DataTable) |  |  |  |  |
-| [Guid.Abstractions](https://github.com/msdickinson/DickinsonBros.Guid) |  |  |  |  |
-| [DateTime.Abstractions](https://github.com/msdickinson/DickinsonBros.DateTime) |  |  |  |  |
-| [Stopwatch.Abstractions](https://github.com/msdickinson/DickinsonBros.Stopwatch) |  |  |  |  |
-| [Redactor.Abstractions](https://github.com/msdickinson/DickinsonBros.Redactor) |  |  |  |  |
-| [Logger.Abstractions](https://github.com/msdickinson/DickinsonBros.Logger) |  |  |  |  |
-| [Telemetry.Abstractions](https://github.com/msdickinson/DickinsonBros.Telemetry) |  |  |  |  |
-| [SQL.Abstractions](https://github.com/msdickinson/DickinsonBros.SQL) |  |  |  |  |
-| [NoSQL.Abstractions](https://github.com/msdickinson/DickinsonBros.NoSQL)  |  |  |  |  |
-| [DurableRest.Abstractions](https://github.com/msdickinson/DickinsonBros.DurableRest) |  |  |  |  |
+| Package  | Build | Release | Nuget |
+| ------------- | ------------- | ------------- | ------------- |
+| [Encryption.Certificate.Abstractions](https://github.com/msdickinson/DickinsonBros.Certificate.Abstractions)  |  |  |  |
+| [Encryption.AES.Abstractions](https://github.com/msdickinson/DickinsonBros.AES.Abstractions)  |  |  |  |
+| [DataTable.Abstractions](https://github.com/msdickinson/DickinsonBros.DataTable) |  |  |  |
+| [Guid.Abstractions](https://github.com/msdickinson/DickinsonBros.Guid) |  |  |  |
+| [DateTime.Abstractions](https://github.com/msdickinson/DickinsonBros.DateTime) |  |  |  |
+| [Stopwatch.Abstractions](https://github.com/msdickinson/DickinsonBros.Stopwatch) |  |  |  |
+| [Redactor.Abstractions](https://github.com/msdickinson/DickinsonBros.Redactor) |  |  |  |
+| [Logger.Abstractions](https://github.com/msdickinson/DickinsonBros.Logger) |  |  |  |
+| [Telemetry.Abstractions](https://github.com/msdickinson/DickinsonBros.Telemetry) |  |  |  |
+| [SQL.Abstractions](https://github.com/msdickinson/DickinsonBros.SQL) |  |  |  |
+| [NoSQL.Abstractions](https://github.com/msdickinson/DickinsonBros.NoSQL)  |  |  |  |
+| [DurableRest.Abstractions](https://github.com/msdickinson/DickinsonBros.DurableRest) |  |  |  |
