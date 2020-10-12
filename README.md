@@ -48,7 +48,7 @@ Abstraction packages have been added to reduce coupling between packages.
 
 | Package  | Build | Release | Nuget |
 | ------------- | ------------- | ------------- | ------------- |
-| [Encryption.Certificate.Abstractions](https://github.com/msdickinson/DickinsonBros.Certificate.Abstractions)  |  |  |  |
+| [Encryption.Certificate.Abstractions](https://github.com/msdickinson/DickinsonBros.Certificate.Abstractions)  |<a href="https://dev.azure.com/marksamdickinson/dickinsonbros/_build/latest?definitionId=43&amp;branchName=master"> <img alt="Azure DevOps builds (branch)" src="https://img.shields.io/azure-devops/build/marksamdickinson/DickinsonBros/57/master"> </a>|<a href="https://dev.azure.com/marksamdickinson/DickinsonBros/_release?_a=releases&view=mine&definitionId=20"> <img alt="Azure DevOps releases" src="https://img.shields.io/azure-devops/release/marksamdickinson/b5a46403-83bb-4d18-987f-81b0483ef43e/21/22"> </a>|<a href="https://www.nuget.org/packages/DickinsonBros.Encryption.Certificate.Abstractions/"><img src="https://img.shields.io/nuget/v/DickinsonBros.Encryption.Certificate.Abstractions"></a>|
 | [Encryption.AES.Abstractions](https://github.com/msdickinson/DickinsonBros.AES.Abstractions)  |  |  |  |
 | [DataTable.Abstractions](https://github.com/msdickinson/DickinsonBros.DataTable) |  |  |  |
 | [Guid.Abstractions](https://github.com/msdickinson/DickinsonBros.Guid) |  |  |  |
