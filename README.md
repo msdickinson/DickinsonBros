@@ -50,17 +50,16 @@ Abstraction packages have been added to reduce coupling between packages.
 | ------------- | ------------- | ------------- | ------------- |
 | [Encryption.Certificate.Abstractions](https://github.com/msdickinson/DickinsonBros.Certificate.Abstractions)  |<a href="https://dev.azure.com/marksamdickinson/dickinsonbros/_build/latest?definitionId=43&amp;branchName=master"> <img alt="Azure DevOps builds (branch)" src="https://img.shields.io/azure-devops/build/marksamdickinson/DickinsonBros/43/master"> </a>|<a href="https://dev.azure.com/marksamdickinson/DickinsonBros/_release?_a=releases&view=mine&definitionId=20"> <img alt="Azure DevOps releases" src="https://img.shields.io/azure-devops/release/marksamdickinson/b5a46403-83bb-4d18-987f-81b0483ef43e/21/22"> </a>|<a href="https://www.nuget.org/packages/DickinsonBros.Encryption.Certificate.Abstractions/"><img src="https://img.shields.io/nuget/v/DickinsonBros.Encryption.Certificate.Abstractions"></a>|
 | [Encryption.AES.Abstractions](https://github.com/msdickinson/DickinsonBros.AES.Abstractions)  |  <a href="https://dev.azure.com/marksamdickinson/dickinsonbros/_build/latest?definitionId=47&amp;branchName=master"> <img alt="Azure DevOps builds (branch)" src="https://img.shields.io/azure-devops/build/marksamdickinson/DickinsonBros/47/master"></a>| <a href="https://dev.azure.com/marksamdickinson/DickinsonBros/_release?_a=releases&view=mine&definitionId=22"> <img alt="Azure DevOps releases" src="https://img.shields.io/azure-devops/release/marksamdickinson/b5a46403-83bb-4d18-987f-81b0483ef43e/22/23"> </a> | <a href="https://www.nuget.org/packages/DickinsonBros.Encryption.AES.Abstractions/"><img src="https://img.shields.io/nuget/v/DickinsonBros.Encryption.AES.Abstractions"></a> |
+| [DataTable.Abstractions](https://github.com/msdickinson/DickinsonBros.DataTable.Abstractions) |<a href="https://dev.azure.com/marksamdickinson/dickinsonbros/_build/latest?definitionId=66&amp;branchName=master"> <img alt="Azure DevOps builds (branch)" src="https://img.shields.io/azure-devops/build/marksamdickinson/DickinsonBros/66/master"> </a>|<a href="https://dev.azure.com/marksamdickinson/DickinsonBros/_release?_a=releases&view=mine&definitionId=31"> <img alt="Azure DevOps releases" src="https://img.shields.io/azure-devops/release/marksamdickinson/b5a46403-83bb-4d18-987f-81b0483ef43e/31/32"> </a>|<a href="https://www.nuget.org/packages/DickinsonBros.DataTable.Abstractions/"><img src="https://img.shields.io/nuget/v/DickinsonBros.DataTable.Abstractions"></a>|
 
-
-| [DataTable.Abstractions](https://github.com/msdickinson/DickinsonBros.DataTable) |  |  |  |
-| [Guid.Abstractions](https://github.com/msdickinson/DickinsonBros.Guid) |  |  |  |
-| [DateTime.Abstractions](https://github.com/msdickinson/DickinsonBros.DateTime) |  |  |  |
-| [Stopwatch.Abstractions](https://github.com/msdickinson/DickinsonBros.Stopwatch) |  |  |  |
-| [Redactor.Abstractions](https://github.com/msdickinson/DickinsonBros.Redactor) |  |  |  |
-| [Logger.Abstractions](https://github.com/msdickinson/DickinsonBros.Logger) |  |  |  |
-| [Telemetry.Abstractions](https://github.com/msdickinson/DickinsonBros.Telemetry) |  |  |  |
-| [SQL.Abstractions](https://github.com/msdickinson/DickinsonBros.SQL) |  |  |  |
-| [NoSQL.Abstractions](https://github.com/msdickinson/DickinsonBros.NoSQL)  |  |  |  |
-| [DurableRest.Abstractions](https://github.com/msdickinson/DickinsonBros.DurableRest) |  |  |  |
+| [Guid.Abstractions](https://github.com/msdickinson/DickinsonBros.Guid.Abstractions) |  |  |  |
+| [DateTime.Abstractions](https://github.com/msdickinson/DickinsonBros.DateTime.Abstractions) |  |  |  |
+| [Stopwatch.Abstractions](https://github.com/msdickinson/DickinsonBros.Stopwatch.Abstractions) |  |  |  |
+| [Redactor.Abstractions](https://github.com/msdickinson/DickinsonBros.Redactor.Abstractions) |  |  |  |
+| [Logger.Abstractions](https://github.com/msdickinson/DickinsonBros.Logger.Abstractions) |  |  |  |
+| [Telemetry.Abstractions](https://github.com/msdickinson/DickinsonBros.Telemetry.Abstractions) |  |  |  |
+| [SQL.Abstractions](https://github.com/msdickinson/DickinsonBros.SQL.Abstractions) |  |  |  |
+| [NoSQL.Abstractions](https://github.com/msdickinson/DickinsonBros.NoSQL.Abstractions)  |  |  |  |
+| [DurableRest.Abstractions](https://github.com/msdickinson/DickinsonBros.DurableRest.Abstractions) |  |  |  |
 
   |<a href="https://dev.azure.com/marksamdickinson/dickinsonbros/_build/latest?definitionId={BUILDID}&amp;branchName=master"> <img alt="Azure DevOps builds (branch)" src="https://img.shields.io/azure-devops/build/marksamdickinson/DickinsonBros/{BUILDID}/master"> </a>|<a href="https://dev.azure.com/marksamdickinson/DickinsonBros/_release?_a=releases&view=mine&definitionId={RELEASEID}"> <img alt="Azure DevOps releases" src="https://img.shields.io/azure-devops/release/marksamdickinson/RELEASECODE}"> </a>|<a href="https://www.nuget.org/packages/{PACKAGENAME}/"><img src="https://img.shields.io/nuget/v/{PACKAGENAME}"></a>|
