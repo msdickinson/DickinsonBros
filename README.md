@@ -42,7 +42,7 @@ Abstraction packages have been added to reduce coupling between packages.
 
 | Package  | Build | Coverage | Release | Nuget |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Test](https://github.com/msdickinson/DickinsonBros.Test)  |  |  |  |  |
+| [Test](https://github.com/msdickinson/DickinsonBros.Test)  |<a href="https://dev.azure.com/marksamdickinson/dickinsonbros/_build/latest?definitionId=4&amp;branchName=master"> <img alt="Azure DevOps builds (branch)" src="https://img.shields.io/azure-devops/build/marksamdickinson/DickinsonBros/4/master"> </a>| <a href="https://dev.azure.com/marksamdickinson/dickinsonbros/_build/latest?definitionId=4&amp;branchName=master"> <img alt="Azure DevOps coverage (branch)" src="https://img.shields.io/azure-devops/coverage/marksamdickinson/dickinsonbros/4/master"> </a>|<a href="https://dev.azure.com/marksamdickinson/DickinsonBros/_release?_a=releases&view=mine&definitionId=2"> <img alt="Azure DevOps releases" src="https://img.shields.io/azure-devops/release/marksamdickinson/b5a46403-83bb-4d18-987f-81b0483ef43e/2/3"> </a>|<a href="https://www.nuget.org/packages/DickinsonBros.Test/"><img src="https://img.shields.io/nuget/v/DickinsonBros.Test"></a>|
 | [IntegrationTest](https://github.com/msdickinson/DickinsonBros.IntegrationTest) |  |  |  |  |
 
 <h2>Abstraction Packages</h2>
