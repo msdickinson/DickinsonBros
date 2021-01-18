@@ -14,7 +14,7 @@ Abstraction packages have been added to reduce coupling between packages.
 
 <h2>Stack</h2>
 
-![Alt text](https://raw.githubusercontent.com/msdickinson/DickinsonBros/master/StackV4.png)
+![Alt text](https://raw.githubusercontent.com/msdickinson/DickinsonBros/master/StackV5.png)
 
 <br/>
 
